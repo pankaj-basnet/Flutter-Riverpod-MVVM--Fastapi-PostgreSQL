@@ -29,7 +29,7 @@ class MyApp extends ConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
      return MaterialApp(
-      title: 'Music App',
+      title: 'Ecom',
       theme: AppTheme.darkThemeMode,
       // home: currentUser == null ? const SignupPage() : const HomePage(), //isn= //sn= commented out 
       home:  const SignupPage(),  

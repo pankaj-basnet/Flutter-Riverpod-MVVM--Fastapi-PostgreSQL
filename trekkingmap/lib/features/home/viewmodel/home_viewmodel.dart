@@ -15,16 +15,4 @@ Future<List<ProductModel>> getAllProducts(GetAllProductsRef ref) async {
     Right(value: final r) => r,
   };
 }
- 
-
-// @riverpod
-// class HomeViewModel extends _$HomeViewModel {
-//   late HomeRepository _homeRepository;
- 
-//   @override
-//   AsyncValue? build() {
-//     // _homeRepository = ref.watch(homeRepositoryProvider);
-//      return null;
-//   }
- 
-// }
+  

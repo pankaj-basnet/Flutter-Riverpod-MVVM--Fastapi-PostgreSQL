@@ -66,6 +66,10 @@ dependencies:
   google_sign_in: ^6.2.2
   flutter_svg: ^2.0.16
 
+  # blog functionality 241231
+  collection: ^1.18.0
+
+
 
 dev_dependencies:
   flutter_test:
